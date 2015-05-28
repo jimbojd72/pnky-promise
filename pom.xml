@@ -38,6 +38,28 @@
   </description>
   <url>https://github.com/jive/pnky-promise</url>
 
+  <licenses>
+    <license>
+      <name>Apache License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+
+  <developers>
+    <developer>
+      <email>bpedersen@jive.com</email>
+      <name>Brandon Pedersen</name>
+      <id>bpedman</id>
+    </developer>
+
+    <developer>
+      <email>dvaleri@jive.com</email>
+      <name>David Valeri</name>
+      <id>DavidValeri</id>
+    </developer>
+  </developers>
+
   <scm>
     <connection>scm:git:ssh://git@github.com/jive/pnky-promise.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/jive/pnky-promise.git</developerConnection>
