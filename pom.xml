@@ -23,7 +23,7 @@
   <parent>
     <groupId>com.jive.foss</groupId>
     <artifactId>foss-parent</artifactId>
-    <version>2-SNAPSHOT</version>
+    <version>2</version>
   </parent>
 
   <groupId>com.jive.foss.pnky</groupId>
@@ -71,7 +71,7 @@
     <java.version.target>1.7</java.version.target>
     <java.version.source>1.7</java.version.source>
 
-    <deps.jive-commons.version>1.0.0-SNAPSHOT</deps.jive-commons.version>
+    <deps.jive-commons.version>1.0.0</deps.jive-commons.version>
   </properties>
 
   <dependencyManagement>
