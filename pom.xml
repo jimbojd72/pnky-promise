@@ -80,7 +80,7 @@
       <dependency>
         <groupId>com.jive.foss.commons</groupId>
         <artifactId>commons-bom</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
+        <version>${deps.jive-commons.version}</version>
         <scope>import</scope>
         <type>pom</type>
       </dependency>
